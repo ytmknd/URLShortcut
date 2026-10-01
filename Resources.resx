@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype"><value>text/microsoft-resx</value></resheader>
+  <resheader name="version"><value>2.0</value></resheader>
+  <resheader name="reader"><value>System.Resources.ResXResourceReader, System.Windows.Forms</value></resheader>
+  <resheader name="writer"><value>System.Resources.ResXResourceWriter, System.Windows.Forms</value></resheader>
+  <data name="WindowTitle" xml:space="preserve"><value>URL Shortcut Creator</value></data>
+  <data name="UrlPrompt" xml:space="preserve"><value>URL to open when you use the shortcut</value></data>
+  <data name="SaveButton" xml:space="preserve"><value>Save...</value></data>
+  <data name="InvalidUrl" xml:space="preserve"><value>Enter a valid URL beginning with http:// or https://.</value></data>
+  <data name="InvalidUrlTitle" xml:space="preserve"><value>Check the URL</value></data>
+  <data name="SaveDialogTitle" xml:space="preserve"><value>Save URL shortcut</value></data>
+  <data name="SaveDialogFilter" xml:space="preserve"><value>Internet Shortcut (*.url)|*.url</value></data>
+  <data name="SaveSuccess" xml:space="preserve"><value>The shortcut was saved.</value></data>
+  <data name="SuccessTitle" xml:space="preserve"><value>Done</value></data>
+  <data name="SaveFailureFormat" xml:space="preserve"><value>Could not save the shortcut.&#10;{0}</value></data>
+  <data name="ErrorTitle" xml:space="preserve"><value>Error</value></data>
+  <data name="InvalidExtension" xml:space="preserve"><value>Save the shortcut as a .url file.</value></data>
+</root>

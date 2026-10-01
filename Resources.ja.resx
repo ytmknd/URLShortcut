@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype"><value>text/microsoft-resx</value></resheader>
+  <resheader name="version"><value>2.0</value></resheader>
+  <resheader name="reader"><value>System.Resources.ResXResourceReader, System.Windows.Forms</value></resheader>
+  <resheader name="writer"><value>System.Resources.ResXResourceWriter, System.Windows.Forms</value></resheader>
+  <data name="WindowTitle" xml:space="preserve"><value>URL ショートカット作成</value></data>
+  <data name="UrlPrompt" xml:space="preserve"><value>ショートカットを開いたときに表示する URL</value></data>
+  <data name="SaveButton" xml:space="preserve"><value>保存...</value></data>
+  <data name="InvalidUrl" xml:space="preserve"><value>http:// または https:// で始まる有効な URL を入力してください。</value></data>
+  <data name="InvalidUrlTitle" xml:space="preserve"><value>URL を確認してください</value></data>
+  <data name="SaveDialogTitle" xml:space="preserve"><value>URL ショートカットの保存先</value></data>
+  <data name="SaveDialogFilter" xml:space="preserve"><value>インターネット ショートカット (*.url)|*.url</value></data>
+  <data name="SaveSuccess" xml:space="preserve"><value>ショートカットを保存しました。</value></data>
+  <data name="SuccessTitle" xml:space="preserve"><value>完了</value></data>
+  <data name="SaveFailureFormat" xml:space="preserve"><value>保存できませんでした。&#10;{0}</value></data>
+  <data name="ErrorTitle" xml:space="preserve"><value>エラー</value></data>
+  <data name="InvalidExtension" xml:space="preserve"><value>保存先は .url ファイルにしてください。</value></data>
+</root>
